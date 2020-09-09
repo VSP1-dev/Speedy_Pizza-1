@@ -11,7 +11,7 @@ var ord1,ord2,ord3,ord4;
 var road1,road2, road3, road4;
 var car1, car2, car3, car4;
 var timer = 60;
-
+/*
 //this is preload
 function preload()
 {
@@ -21,7 +21,7 @@ house3_img = loadImage("../images/House_final.png");
 house4_img = loadImage("../images/House_final.png");
 shop_img = loadImage("../images/pizza_house.png");
 }
-
+*/
 
 function setup() {
   createCanvas(800,400);
