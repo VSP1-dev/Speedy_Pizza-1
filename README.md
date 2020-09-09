@@ -1,3 +1,3 @@
 # p5.play-boilerplate
 Boiler plate for p5.play
-v.1
+v.1 Speedy Pizza
